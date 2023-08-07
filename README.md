@@ -59,6 +59,7 @@
 
 #### Ответ на задание 2.
 
+#### [Ссылка на коммит с файлом .gitignore](https://github.com/netology-code/sys-pattern-homework/commit/19a0db276800fca4cf7ad5a8569f645385f6a731)
 ---
 
 ### Задание 3
