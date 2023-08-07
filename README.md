@@ -37,13 +37,14 @@
 9. Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
 10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
 11. Ещё раз выполните команды git diff и git diff --staged.
+![image 1](img/01.png)
 12. Теперь можно сделать коммит git commit -m 'First commit'.
 13. Сделайте git push origin master.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 #### Ответ на задание 1.
 
-[Ссылка на коммит по первому заданию]()
+[Ссылка на коммит по первому заданию](https://github.com/netology-code/sys-pattern-homework/commit/89da009fddb9bee8e77acecb8cf3f39f08bf7e41)
 ---
 
 ### Задание 2
