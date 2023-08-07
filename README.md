@@ -44,7 +44,7 @@
 
 #### Ответ на задание 1.
 
-[Ссылка на коммит по первому заданию](https://github.com/netology-code/sys-pattern-homework/commit/89da009fddb9bee8e77acecb8cf3f39f08bf7e41)
+#### [Ссылка на коммит по первому заданию](https://github.com/andaks1/8-0.1-git/tree/master)
 ---
 
 ### Задание 2
